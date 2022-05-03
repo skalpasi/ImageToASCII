@@ -6,4 +6,4 @@
 
 ### Screenshot:
 
-[](https://imgur.com/a/gRFWuoL)
+![](https://imgur.com/a/gRFWuoL)
